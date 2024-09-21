@@ -1,4 +1,4 @@
-# Monitoria Programação Orientada à Objeto - NES
+# Monitoria Programação Orientada a Objetos - NES
 
 Conteúdos apresentados nas monitorias de POO do NES
 
